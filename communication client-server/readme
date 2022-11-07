@@ -1,3 +1,0 @@
-Comunicação entre cliente e servidor criada a partir da biblioteca socket em python.
-
-Necessario passar o IP que deseja usar para se comunicar no ip_adress
