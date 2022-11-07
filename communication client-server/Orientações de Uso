@@ -1,0 +1,5 @@
+Simulação de uma comunicação entre um cliente e servidor em Python usando a biblioteca socket.
+
+Necessario colocar o IP que deseja usar na variavel ip_adress.
+
+Versão 1.0 de ambos programas(modificações em breve).
